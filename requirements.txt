@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+matplotlib
+jupyter
+jarvis-tools
+# only needed to rerun predictions (02_run_alignn.ipynb, best on Google Colab):
+# alignn==2026.8.11
+# torch
